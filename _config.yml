@@ -2,34 +2,41 @@
 
 title: Alexia Roux-Sibilon
 #email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-# Build settings
-theme: no-style-please
+
+
+description: > # description of the site (multiple lines allowed)
+  <p>
+  Bonjour! <br>
+  description!
+  <br> ????
+  </p>
+  
+  <p>
+  Some links -- <a href='https://scholar.google.com/citations?user=bniRun0AAAAJ&hl=fr&oi=ao'>google scholar</a>  <a href='https://github.com/AlexiaRoux-Sibilon'>github</a>   <a href='https://twitter.com/a_rouxsibilon'>twitter</a>  <a href='https://www.researchgate.net/profile/Alexia-Roux-Sibilon'>researchgate</a>  <a href='https://publons.com/researcher/3569257/alexia-roux-sibilon/'>publons</a> 
+  <br> Feel free to contact me at a.roux-sibilon@uclouvain.be 
+  </p>  
+
+
+permalink: /:slug.html
+
+
+favicon: "images/bird.png" # name+extension of favicon (which must be put on the root folder)
+# goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
+
+theme: no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
+
+theme_config:
+  appearance: "light" # can be "light", "dark" or "auto"
+  back_home_text: "←" # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  show_description: true # show blog description in home page
+
+sass:
+  style: :compressed
+
 plugins:
   - jekyll-feed
-
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+  - jekyll-seo-tag
