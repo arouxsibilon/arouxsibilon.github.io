@@ -1,20 +1,6 @@
-# For documentation on this file, see:
-# https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  #- title: Bonjour! I'm a postdoc scientist currently working at <a href='https://sites.uclouvain.be/goffauxlab/index.html'>goffauxlab</a>  @UCLouvain (Belgium). I am interested in human (visual) perception and my research focuses on topics related to global/coarse and local/fine processing, role of feedforward and feedback signals along the ventral pathway for object and scene recognition, and especially in the role of our peripheral vision in all that.
-  #- title: Some links -- <a href='https://scholar.google.com/citations?user=bniRun0AAAAJ&hl=fr&oi=ao'>google scholar</a>  <a href='https://github.com/AlexiaRoux-Sibilon'>github</a>  <a href='https://scholar.google.com/citations?user=bniRun0AAAAJ&hl=fr&oi=ao'>google scholar</a>  <a href='https://twitter.com/a_rouxsibilon'>twitter</a>  <a href='https://www.researchgate.net/profile/Alexia-Roux-Sibilon'>researchgate</a>  <a href='https://publons.com/researcher/3569257/alexia-roux-sibilon/'>publons</a>  
-  #- title: feel free to contact me at a.roux-sibilon@uclouvain.be 
-    # entries:
-        # - title: google scholar
-          # url: https://scholar.google.com/citations?user=bniRun0AAAAJ&hl=fr&oi=ao
-        # - title: github
-          # url: https://github.com/AlexiaRoux-Sibilon
-        # - title: twitter
-          # url: https://twitter.com/a_rouxsibilon
-        # - title: researchgate
-          # url: https://www.researchgate.net/profile/Alexia-Roux-Sibilon
-      
+  
   - title: You can find my publications list here
     url: pubList
     
