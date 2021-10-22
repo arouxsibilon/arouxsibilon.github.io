@@ -23,12 +23,9 @@ entries:
     url: pdf/ARScv.pdf
  
     
- # - title: Posts
- #   post_list:
- #    limit: 5
- #     show_more: true
- #     show_more_text: See archive...
- #     show_more_url: archive.html
+#  - title: Posts
+#    post_list:
+#      limit: 5
 
 
 
