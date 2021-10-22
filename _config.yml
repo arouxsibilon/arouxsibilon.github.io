@@ -1,5 +1,3 @@
-
-
 title: Alexia Roux-Sibilon
 #email: your-email@example.com
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -9,8 +7,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 description: > # description of the site (multiple lines allowed)
   <p>
-  Hi!    
-  I am a postdoc researcher currently working in the <a href='https://sites.uclouvain.be/goffauxlab/index.html'>goffauxlab</a> @UCLouvain, Belgium where I conduct research on (human) visual perception. One of the goals of my research is to better understand how coarse and fine visual signals are integrated in the brain. I am particularly interested in how these mechanisms are implemented in animals with foveated vision (such as humans), which consists of a large visual field with only a tiny region that allows for high spatial resolution. <br>
+  Hi! I am a postdoc researcher currently working in the <a href='https://sites.uclouvain.be/goffauxlab/index.html'>goffauxlab</a> @UCLouvain, Belgium where I conduct research on (human) visual perception. One of the goals of my research is to better understand how coarse and fine visual signals are integrated in the brain. I am particularly interested in how these mechanisms are implemented in animals with foveated vision (such as humans), which consists of a large visual field with only a tiny region that allows for high spatial resolution. <br>
   
   In the past I have worked on the coarse-to-fine approach of visual perception. My PhD research focused on how peripheral vision contributes to coarse visual signals. In my current position @goffauxlab, I also collaborate on research aimed at better understanding how basic visual features (oriented contrast) are encoded and lead to face perception. <br> More recently, I've become interested in the radial organisation of the visual field, which appears to be present in at least some species with foveated vision. I received a FSR grant from UCLouvain to investigate how this visual bias influences how we perceive natural objects such as faces.<br>
   I mostly use psychophysics, which is my favourite tool, and I am working on shifting toward Bayesian statistical models to analyse the non-linear perceptual phenomena that psychophysical experiments often measure (e.g., psychometric functions, gaussian tuning functions). 
